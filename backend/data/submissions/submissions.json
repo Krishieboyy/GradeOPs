@@ -1,0 +1,13 @@
+[
+  {
+    "id": "293f50cd-8035-4095-b4e1-186cd38c6445",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "048fba2f-9ef8-48f2-966c-1c563d4989e8",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text.jpeg",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "status": "evaluated",
+    "created_at": "2026-04-18T22:12:37.245976+00:00"
+  }
+]

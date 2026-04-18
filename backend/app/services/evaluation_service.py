@@ -1,5 +1,5 @@
 import re
-from app.schemas.evaluation_schema import QuestionEvaluation, EvaluationResponse
+from app.schemas.evaluation_schema import QuestionEvaluation
 
 def normalize_text(text: str) -> str:
     text = text.replace("\r", "\n")
@@ -7,26 +7,18 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"[ \t]+", " ", text)
     return text.strip()
 
-def score_question(answer_text: str, q: dict) -> QuestionEvaluation:
+def score_question(answer_text: str, q: dict):
     answer_lower = answer_text.lower()
 
     matched_points = []
     missing_points = []
 
-    keyword_hits = 0
-    total_keywords = max(len(q.get("keywords", [])), 1)
-
-    for kw in q.get("keywords", []):
-        if kw.lower() in answer_lower:
-            keyword_hits += 1
-
     for point in q["expected_points"]:
         point_words = point.lower().split()
-        hit_count = sum(1 for w in point_words if w in answer_lower)
-
-        if len(point_words) == 0:
+        if not point_words:
             continue
 
+        hit_count = sum(1 for w in point_words if w in answer_lower)
         ratio = hit_count / len(point_words)
 
         if ratio >= 0.5:
@@ -34,34 +26,30 @@ def score_question(answer_text: str, q: dict) -> QuestionEvaluation:
         else:
             missing_points.append(point)
 
-    point_score = 0.0
+    score = 0.0
     if q["expected_points"]:
-        point_score = (len(matched_points) / len(q["expected_points"])) * q["max_marks"]
+        score = (len(matched_points) / len(q["expected_points"])) * q["max_marks"]
 
-    keyword_bonus = 0.0
-    if q.get("keywords"):
-        keyword_bonus = (keyword_hits / total_keywords) * 0.2 * q["max_marks"]
-
-    awarded = min(q["max_marks"], round(point_score * 0.8 + keyword_bonus, 2))
+    score = round(min(score, q["max_marks"]), 2)
 
     reasoning = (
         "Good coverage of expected points."
-        if awarded >= 0.75 * q["max_marks"]
+        if score >= 0.75 * q["max_marks"]
         else "Partial coverage of expected points."
-        if awarded >= 0.4 * q["max_marks"]
+        if score >= 0.4 * q["max_marks"]
         else "Limited match with expected points."
     )
 
     return QuestionEvaluation(
         question_no=q["question_no"],
-        awarded_marks=awarded,
+        awarded_marks=score,
         max_marks=q["max_marks"],
         matched_points=matched_points,
         missing_points=missing_points,
         reasoning=reasoning
     )
 
-def evaluate_answer_text(extracted_text: str, scheme: dict) -> EvaluationResponse:
+def evaluate_answer_text(extracted_text: str, scheme: dict):
     clean_text = normalize_text(extracted_text)
 
     results = []
@@ -83,12 +71,11 @@ def evaluate_answer_text(extracted_text: str, scheme: dict) -> EvaluationRespons
         else "Low alignment with marking scheme."
     )
 
-    return EvaluationResponse(
-        scheme_id="",
-        extracted_text=clean_text,
-        total_score=round(total_score, 2),
-        max_score=max_score,
-        percentage=percentage,
-        question_wise=results,
-        overall_reasoning=overall_reasoning
-    )
+    return {
+        "extracted_text": clean_text,
+        "total_score": round(total_score, 2),
+        "max_score": max_score,
+        "percentage": percentage,
+        "question_wise": [r.model_dump() for r in results],
+        "overall_reasoning": overall_reasoning
+    }

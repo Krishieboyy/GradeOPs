@@ -1,4 +1,4 @@
-fastapi
+fastapi[standard]
 uvicorn
 transformers
 torch
@@ -6,3 +6,6 @@ torchvision
 pillow
 python-multipart
 accelerate
+python-jose
+passlib[bcrypt]
+pydantic[email]
