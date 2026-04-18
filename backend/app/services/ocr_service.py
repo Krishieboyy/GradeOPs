@@ -14,7 +14,7 @@ def extract_text_from_image(image):
 
                     Rules:
                     - Do NOT explain anything
-                    - Do NOT correct grammar or facts
+                    - Do NOT correct grammar or facts   
                     - Do NOT add missing information
                     - Do NOT summarize
                     - Keep original formatting as much as possible
