@@ -62,5 +62,773 @@
     ],
     "overall_reasoning": "Strong overall performance.",
     "created_at": "2026-04-18T22:12:37.245976+00:00"
+  },
+  {
+    "id": "e456609a-c1a4-4b70-b88e-958aeaf46c14",
+    "submission_id": "46b9c7a2-5f70-4c0d-8068-3693e0da6246",
+    "scheme_id": "af90a9ea-00e6-4257-9ffe-81712b684f62",
+    "exam_id": "PHY101_MIDSEM_2025",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-19T05:30:35.938858+00:00"
+  },
+  {
+    "id": "ed260e86-6e39-449d-a678-55d376a8f265",
+    "submission_id": "57772944-0d18-4602-af26-d9dde7cb3b78",
+    "scheme_id": "471271a6-fada-476e-a95b-cd98416dc3f7",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-19T06:34:44.621916+00:00"
+  },
+  {
+    "id": "c51eaf76-d5a2-4746-a378-ae6cc39bc533",
+    "submission_id": "ff0bb547-55b2-4a74-b7bf-0047f8fd2b8e",
+    "scheme_id": "c1e52fb6-1c53-48bf-beb1-eb1910a9484d",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-19T10:26:26.494735+00:00"
+  },
+  {
+    "id": "4d7c2842-7784-4c55-8664-9d26edf7bdf9",
+    "submission_id": "924acfb0-d169-4cbb-b274-3ddb9a28b139",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-19T10:44:52.455665+00:00"
+  },
+  {
+    "id": "f120938f-fd19-4d40-bf8c-9191498771d2",
+    "submission_id": "157f6968-e0ef-484e-9679-a3f87105dd64",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-19T10:44:55.825480+00:00"
+  },
+  {
+    "id": "a16c46ea-0e10-4129-8554-6547b76037a5",
+    "submission_id": "ca56dfa8-b428-4f70-9df8-e8a453bafceb",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-19T10:44:59.154612+00:00"
+  },
+  {
+    "id": "ffd6769f-72a3-405d-94b8-4c783e93ead7",
+    "submission_id": "fd14928a-2fb5-4ade-9b5f-a794545b81bd",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "total_score": 9.4,
+    "max_score": 10.0,
+    "percentage": 94.0,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 4.0,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 2.4,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "missing_points": [
+          "Hybrid system should be compared against individual methods"
+        ],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 3.0,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      }
+    ],
+    "overall_reasoning": "Strong overall performance.",
+    "created_at": "2026-04-19T10:45:27.691983+00:00"
+  },
+  {
+    "id": "7f1e8d71-6214-451b-9b1d-f7bed90e0c6a",
+    "submission_id": "649f3e3f-79da-4aad-9dbf-775f2ef14002",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "total_score": 9.4,
+    "max_score": 10.0,
+    "percentage": 94.0,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 4.0,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 2.4,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "missing_points": [
+          "Hybrid system should be compared against individual methods"
+        ],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 3.0,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      }
+    ],
+    "overall_reasoning": "Strong overall performance.",
+    "created_at": "2026-04-19T10:45:45.395333+00:00"
+  },
+  {
+    "id": "4354d129-7daa-42ec-be84-e375e73fa2df",
+    "submission_id": "eee2efc4-bc37-435c-a238-f1f141bfd39a",
+    "scheme_id": "11444437-92fe-4f5c-93ed-5823c515bbcd",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-19T18:43:24.994059+00:00"
+  },
+  {
+    "id": "349bafec-26f0-4b78-8554-c80c1f69efd6",
+    "submission_id": "53e10f62-1342-40c7-9c1b-28f08c666a6f",
+    "scheme_id": "46a756b6-f121-4348-8762-6a58ef0bbdaa",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "total_score": 9.4,
+    "max_score": 10.0,
+    "percentage": 94.0,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 4.0,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 2.4,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "missing_points": [
+          "Hybrid system should be compared against individual methods"
+        ],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 3.0,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      }
+    ],
+    "overall_reasoning": "Strong overall performance.",
+    "created_at": "2026-04-22T13:51:57.641910+00:00"
+  },
+  {
+    "id": "bb3e9709-31d3-4b1e-bd05-22354c048c47",
+    "submission_id": "e9d0dd2e-ed69-444a-b7ac-46f8768d33ea",
+    "scheme_id": "46a756b6-f121-4348-8762-6a58ef0bbdaa",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "total_score": 9.4,
+    "max_score": 10.0,
+    "percentage": 94.0,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 4.0,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 2.4,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "missing_points": [
+          "Hybrid system should be compared against individual methods"
+        ],
+        "reasoning": "Good coverage of expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 3.0,
+        "max_marks": 3.0,
+        "matched_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "missing_points": [],
+        "reasoning": "Good coverage of expected points."
+      }
+    ],
+    "overall_reasoning": "Strong overall performance.",
+    "created_at": "2026-04-22T13:52:11.720996+00:00"
+  },
+  {
+    "id": "afdf4e93-e522-45f5-af3b-b6c1348f4a0d",
+    "submission_id": "2ba6c1c5-b53a-4759-9082-e5c9ab5ec945",
+    "scheme_id": "46a756b6-f121-4348-8762-6a58ef0bbdaa",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "student_id": "220103045",
+    "evaluated_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "total_score": 0.89,
+    "max_score": 10.0,
+    "percentage": 8.9,
+    "question_wise": [
+      {
+        "question_no": 1,
+        "awarded_marks": 0.89,
+        "max_marks": 4.0,
+        "matched_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows similarity results"
+        ],
+        "missing_points": [
+          "Dashboard shows recommendations",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 2,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "reasoning": "Limited match with expected points."
+      },
+      {
+        "question_no": 3,
+        "awarded_marks": 0.0,
+        "max_marks": 3.0,
+        "matched_points": [],
+        "missing_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "reasoning": "Limited match with expected points."
+      }
+    ],
+    "overall_reasoning": "Low alignment with marking scheme.",
+    "created_at": "2026-04-22T13:56:13.558391+00:00"
   }
 ]

@@ -1,0 +1,31 @@
+.sidebar {
+  width: 240px;
+  min-height: 100vh;
+  background: #111726;
+  border-right: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 28px 20px;
+}
+
+.sidebar__title {
+  font-size: 26px;
+  font-weight: 800;
+  margin-bottom: 28px;
+}
+
+.sidebar__nav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sidebar__nav a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.84);
+  padding: 12px 14px;
+  border-radius: 10px;
+}
+
+.sidebar__nav a.active {
+  background: rgba(95, 31, 148, 0.35);
+  color: white;
+}

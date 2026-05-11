@@ -15,3 +15,6 @@ STUDENTS_DIR = os.path.join(DATA_DIR, "students")
 SCHEMES_DIR = os.path.join(DATA_DIR, "schemes")
 SUBMISSIONS_DIR = os.path.join(DATA_DIR, "submissions")
 EVALUATIONS_DIR = os.path.join(DATA_DIR, "evaluations")
+
+MONGO_URI = os.getenv("MONGO_URI")
+DB_NAME = os.getenv("DB_NAME")

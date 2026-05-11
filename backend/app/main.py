@@ -6,7 +6,18 @@ from app.routes.exams import router as exams_router
 from app.routes.students import router as students_router
 from app.routes.submissions import router as submissions_router
 
+from fastapi.middleware.cors import CORSMiddleware
+
+
 app = FastAPI(title="GradeOps Backend")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # later restrict
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(auth_router, prefix="/auth", tags=["Auth"])
 app.include_router(exams_router, prefix="/exams", tags=["Exams"])

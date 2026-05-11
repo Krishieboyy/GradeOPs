@@ -9,5 +9,137 @@
     "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
     "status": "evaluated",
     "created_at": "2026-04-18T22:12:37.245976+00:00"
+  },
+  {
+    "id": "46b9c7a2-5f70-4c0d-8068-3693e0da6246",
+    "exam_id": "PHY101_MIDSEM_2025",
+    "scheme_id": "af90a9ea-00e6-4257-9ffe-81712b684f62",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2025_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-19T05:30:35.934658+00:00"
+  },
+  {
+    "id": "57772944-0d18-4602-af26-d9dde7cb3b78",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "471271a6-fada-476e-a95b-cd98416dc3f7",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-19T06:34:44.621916+00:00"
+  },
+  {
+    "id": "ff0bb547-55b2-4a74-b7bf-0047f8fd2b8e",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "c1e52fb6-1c53-48bf-beb1-eb1910a9484d",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-19T10:26:26.494735+00:00"
+  },
+  {
+    "id": "924acfb0-d169-4cbb-b274-3ddb9a28b139",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-19T10:44:52.454666+00:00"
+  },
+  {
+    "id": "157f6968-e0ef-484e-9679-a3f87105dd64",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-19T10:44:55.824480+00:00"
+  },
+  {
+    "id": "ca56dfa8-b428-4f70-9df8-e8a453bafceb",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-19T10:44:59.153614+00:00"
+  },
+  {
+    "id": "fd14928a-2fb5-4ade-9b5f-a794545b81bd",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text.jpeg",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "status": "evaluated",
+    "created_at": "2026-04-19T10:45:27.691003+00:00"
+  },
+  {
+    "id": "649f3e3f-79da-4aad-9dbf-775f2ef14002",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text.jpeg",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "status": "evaluated",
+    "created_at": "2026-04-19T10:45:45.395333+00:00"
+  },
+  {
+    "id": "eee2efc4-bc37-435c-a238-f1f141bfd39a",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "11444437-92fe-4f5c-93ed-5823c515bbcd",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-19T18:43:24.994059+00:00"
+  },
+  {
+    "id": "53e10f62-1342-40c7-9c1b-28f08c666a6f",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "46a756b6-f121-4348-8762-6a58ef0bbdaa",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text.jpeg",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "status": "evaluated",
+    "created_at": "2026-04-22T13:51:57.641910+00:00"
+  },
+  {
+    "id": "e9d0dd2e-ed69-444a-b7ac-46f8768d33ea",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "46a756b6-f121-4348-8762-6a58ef0bbdaa",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text.jpeg",
+    "extracted_text": "Module 10: Streamlit Dashboard\n\nWhat dashboard does: choose a movie\nsee recommendations\nsee similarity results\nsee charts about taste\nunderstand why recommendations were given.\n\nPossible Dashboard Sections: search bar for movie\nuser profile panel\nrecommended movie cards\nexplanation text\nchart for genres, decades, actors\nsentiment score view\n\nSkills: Streamlit basics, displaying tables/cards/charts, calling backend/model\n\nModule 11: Evaluation & Testing\n\nWhat can be evaluated? \nrecommendations relevant?\ndo users get movies they may like?\ndoes hybrid perform better than single methods?\ndoes sentiment re-ranking help?\n\nSimple Metrics: RMSE\nPrecision\nRecall",
+    "status": "evaluated",
+    "created_at": "2026-04-22T13:52:11.720996+00:00"
+  },
+  {
+    "id": "2ba6c1c5-b53a-4759-9082-e5c9ab5ec945",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "scheme_id": "46a756b6-f121-4348-8762-6a58ef0bbdaa",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2026_text4.jpeg",
+    "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
+    "status": "evaluated",
+    "created_at": "2026-04-22T13:56:13.552891+00:00"
   }
 ]

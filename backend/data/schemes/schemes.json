@@ -77,5 +77,479 @@
       }
     ],
     "created_at": "2026-04-18T22:10:40.826045+00:00"
+  },
+  {
+    "id": "024e8843-a050-42ad-b471-dbbf534e280a",
+    "scheme_id": "af90a9ea-00e6-4257-9ffe-81712b684f62",
+    "exam_id": "PHY101_MIDSEM_2025",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "exam_name": "CINEIQ Modules 10 and 11 Test",
+    "total_marks": 10.0,
+    "questions": [
+      {
+        "question_no": 1,
+        "max_marks": 4.0,
+        "expected_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "keywords": [
+          "movie",
+          "recommendations",
+          "similarity",
+          "explanation",
+          "user profile",
+          "movie cards",
+          "sentiment",
+          "backend",
+          "model"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 2,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "keywords": [
+          "relevant",
+          "users",
+          "hybrid",
+          "single methods",
+          "sentiment reranking",
+          "similarity"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 3,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "keywords": [
+          "RMSE",
+          "Precision",
+          "Recall",
+          "error",
+          "relevant items",
+          "retrieved"
+        ],
+        "strictness": "high"
+      }
+    ],
+    "created_at": "2026-04-19T05:29:41.485492+00:00"
+  },
+  {
+    "id": "3ff0c615-09db-43e2-9e6f-c39ffa82a98c",
+    "scheme_id": "471271a6-fada-476e-a95b-cd98416dc3f7",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "exam_name": "CINEIQ Modules 10 and 11 Test",
+    "total_marks": 10.0,
+    "questions": [
+      {
+        "question_no": 1,
+        "max_marks": 4.0,
+        "expected_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "keywords": [
+          "movie",
+          "recommendations",
+          "similarity",
+          "explanation",
+          "user profile",
+          "movie cards",
+          "sentiment",
+          "backend",
+          "model"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 2,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "keywords": [
+          "relevant",
+          "users",
+          "hybrid",
+          "single methods",
+          "sentiment reranking",
+          "similarity"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 3,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "keywords": [
+          "RMSE",
+          "Precision",
+          "Recall",
+          "error",
+          "relevant items",
+          "retrieved"
+        ],
+        "strictness": "high"
+      }
+    ],
+    "created_at": "2026-04-19T06:34:01.522515+00:00"
+  },
+  {
+    "id": "bcc92cdf-8323-4f20-9bfe-487056f828a5",
+    "scheme_id": "c1e52fb6-1c53-48bf-beb1-eb1910a9484d",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "exam_name": "CINEIQ Modules 10 and 11 Test",
+    "total_marks": 10.0,
+    "questions": [
+      {
+        "question_no": 1,
+        "max_marks": 4.0,
+        "expected_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "keywords": [
+          "movie",
+          "recommendations",
+          "similarity",
+          "explanation",
+          "user profile",
+          "movie cards",
+          "sentiment",
+          "backend",
+          "model"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 2,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "keywords": [
+          "relevant",
+          "users",
+          "hybrid",
+          "single methods",
+          "sentiment reranking",
+          "similarity"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 3,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "keywords": [
+          "RMSE",
+          "Precision",
+          "Recall",
+          "error",
+          "relevant items",
+          "retrieved"
+        ],
+        "strictness": "high"
+      }
+    ],
+    "created_at": "2026-04-19T10:24:38.014880+00:00"
+  },
+  {
+    "id": "3c2f7a66-c36c-4a44-9735-efbb9297033a",
+    "scheme_id": "2a7b0f79-7af3-4885-a56b-cc7104e985b5",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "exam_name": "CINEIQ Modules 10 and 11 Test",
+    "total_marks": 10.0,
+    "questions": [
+      {
+        "question_no": 1,
+        "max_marks": 4.0,
+        "expected_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "keywords": [
+          "movie",
+          "recommendations",
+          "similarity",
+          "explanation",
+          "user profile",
+          "movie cards",
+          "sentiment",
+          "backend",
+          "model"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 2,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "keywords": [
+          "relevant",
+          "users",
+          "hybrid",
+          "single methods",
+          "sentiment reranking",
+          "similarity"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 3,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "keywords": [
+          "RMSE",
+          "Precision",
+          "Recall",
+          "error",
+          "relevant items",
+          "retrieved"
+        ],
+        "strictness": "high"
+      }
+    ],
+    "created_at": "2026-04-19T10:42:51.537907+00:00"
+  },
+  {
+    "id": "8a9afd27-a158-44f4-95a6-4427addb2053",
+    "scheme_id": "11444437-92fe-4f5c-93ed-5823c515bbcd",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "exam_name": "CINEIQ Modules 10 and 11 Test",
+    "total_marks": 10.0,
+    "questions": [
+      {
+        "question_no": 1,
+        "max_marks": 4.0,
+        "expected_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "keywords": [
+          "movie",
+          "recommendations",
+          "similarity",
+          "explanation",
+          "user profile",
+          "movie cards",
+          "sentiment",
+          "backend",
+          "model"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 2,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "keywords": [
+          "relevant",
+          "users",
+          "hybrid",
+          "single methods",
+          "sentiment reranking",
+          "similarity"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 3,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "keywords": [
+          "RMSE",
+          "Precision",
+          "Recall",
+          "error",
+          "relevant items",
+          "retrieved"
+        ],
+        "strictness": "high"
+      }
+    ],
+    "created_at": "2026-04-19T18:41:59.690590+00:00"
+  },
+  {
+    "id": "424ba92c-fdcb-4fd6-a2af-2be2f0c6457f",
+    "scheme_id": "46a756b6-f121-4348-8762-6a58ef0bbdaa",
+    "exam_id": "PHY101_MIDSEM_2026",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "exam_name": "CINEIQ Modules 10 and 11 Test",
+    "total_marks": 10.0,
+    "questions": [
+      {
+        "question_no": 1,
+        "max_marks": 4.0,
+        "expected_points": [
+          "Dashboard allows movie selection",
+          "Dashboard shows recommendations",
+          "Dashboard shows similarity results",
+          "Dashboard explains why recommendations were made",
+          "Dashboard includes user profile panel",
+          "Dashboard includes recommended movie cards",
+          "Dashboard includes explanation text",
+          "Dashboard includes sentiment score view",
+          "Dashboard should mention backend or model integration"
+        ],
+        "keywords": [
+          "movie",
+          "recommendations",
+          "similarity",
+          "explanation",
+          "user profile",
+          "movie cards",
+          "sentiment",
+          "backend",
+          "model"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 2,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Evaluation should test relevance of recommendations",
+          "Evaluation should test whether users get movies they may like",
+          "Hybrid system should be compared against individual methods",
+          "Sentiment reranking should be evaluated",
+          "Testing should mention usefulness of similarity results"
+        ],
+        "keywords": [
+          "relevant",
+          "users",
+          "hybrid",
+          "single methods",
+          "sentiment reranking",
+          "similarity"
+        ],
+        "strictness": "medium"
+      },
+      {
+        "question_no": 3,
+        "max_marks": 3.0,
+        "expected_points": [
+          "Metrics should include RMSE",
+          "Metrics should include Precision",
+          "Metrics should include Recall",
+          "Metrics should explain what RMSE measures",
+          "Metrics should explain what Precision measures",
+          "Metrics should explain what Recall measures"
+        ],
+        "keywords": [
+          "RMSE",
+          "Precision",
+          "Recall",
+          "error",
+          "relevant items",
+          "retrieved"
+        ],
+        "strictness": "high"
+      }
+    ],
+    "created_at": "2026-04-22T13:50:53.874598+00:00"
   }
 ]
