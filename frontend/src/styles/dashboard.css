@@ -1,3 +1,108 @@
 .dashboard-subtext {
   color: rgba(255, 255, 255, 0.72);
+  margin-top: 4px;
+}
+
+/* ── Page header ─────────────────────────────────────── */
+.dash-header {
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* ── Collapsible section ─────────────────────────────── */
+.dash-section {
+  margin-bottom: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.dash-section__header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+  background: rgba(255, 255, 255, 0.04);
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: background 0.2s;
+  text-align: left;
+}
+
+.dash-section__header:hover {
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.dash-section__title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.dash-section__badge {
+  background: rgba(95, 31, 148, 0.55);
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 20px;
+  letter-spacing: 0.03em;
+}
+
+/* Grid-rows accordion — smooth without max-height hacks */
+.dash-section__body-wrapper {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.32s ease;
+}
+
+.dash-section__body-wrapper.open {
+  grid-template-rows: 1fr;
+}
+
+.dash-section__body {
+  overflow: hidden;
+}
+
+.dash-section__body-inner {
+  padding: 24px;
+}
+
+/* ── Student search bar ──────────────────────────────── */
+.search-bar {
+  margin-top: 20px;
+  margin-bottom: 2px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.06);
+  color: white;
+  font-size: 14px;
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.search-input::placeholder {
+  color: rgba(255, 255, 255, 0.38);
+}
+
+.search-input:focus {
+  border-color: rgba(95, 31, 148, 0.6);
+}
+
+/* Override the max-width from students.css inside the dashboard */
+.dash-section__body-inner .students-form {
+  max-width: none;
 }

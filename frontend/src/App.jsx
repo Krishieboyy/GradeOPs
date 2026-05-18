@@ -2,9 +2,6 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
 import LoginPage from "./pages/LoginPage";
 import Dashboard from "./pages/Dashboard";
-import ExamsPage from "./pages/ExamsPage";
-import StudentsPage from "./pages/StudentsPage";
-import ResultsPage from "./pages/ResultsPage";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 export default function App() {
@@ -22,32 +19,10 @@ export default function App() {
         }
       />
 
-      <Route
-        path="/exams"
-        element={
-          <ProtectedRoute>
-            <ExamsPage />
-          </ProtectedRoute>
-        }
-      />
-
-      <Route
-        path="/students"
-        element={
-          <ProtectedRoute>
-            <StudentsPage />
-          </ProtectedRoute>
-        }
-      />
-
-      <Route
-        path="/results"
-        element={
-          <ProtectedRoute>
-            <ResultsPage />
-          </ProtectedRoute>
-        }
-      />
+      {/* Legacy routes redirect to the unified dashboard */}
+      <Route path="/exams" element={<Navigate to="/dashboard" replace />} />
+      <Route path="/students" element={<Navigate to="/dashboard" replace />} />
+      <Route path="/results" element={<Navigate to="/dashboard" replace />} />
 
       <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>

@@ -141,5 +141,27 @@
     "extracted_text": "what\ndashboard\ndoes: -1 choose a movie\n2. See similar results",
     "status": "evaluated",
     "created_at": "2026-04-22T13:56:13.552891+00:00"
+  },
+  {
+    "id": "1e5da996-99a1-448d-9c3a-104aa16eb112",
+    "exam_id": "PHY101_MIDSEM_2023",
+    "scheme_id": "106d7b19-c986-455b-95bf-16ccd6824fcb",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2023_demo_answer_sheet.pdf",
+    "extracted_text": "ANSWER SHEET\n=====================================\nStudent Name : Alex Johnson\nStudent ID : STU001\nExam : Introduction to Computer Science\nDate : 18 May 2026\n=====================================\n\nQuestion 1 (10 marks)\nWhat is an Operating System? Give examples.\nAn operating system is system software that manages the hardware and software resources of a computer. It provides an interface between the user and the computer hardware. Common examples of operating systems are Windows, Linux, and macOS.\n\nQuestion 2 (10 marks)\nDefine RAM. Explain its role and key characteristics.\nRAM is Random Access Memory. It is used by the computer to store data and programs that are currently in use. RAM is temporary storage \u00b7 the data is lost when the computer is switched off.\n\nQuestion 3 (10 marks)\nDescribe the role of the CPU in a computer system.\n[No answer provided]",
+    "status": "evaluated",
+    "created_at": "2026-05-18T08:03:25.369363+00:00"
+  },
+  {
+    "id": "58ed440b-8890-4745-9d56-b20ce43fd358",
+    "exam_id": "PHY101_MIDSEM_2023",
+    "scheme_id": "106d7b19-c986-455b-95bf-16ccd6824fcb",
+    "student_id": "220103045",
+    "uploaded_by": "d3776e24-120d-4b88-860f-68b5fa963d28",
+    "image_path": "uploads\\220103045_PHY101_MIDSEM_2023_demo_answer_sheet.pdf",
+    "extracted_text": "ANSWER SHEET\n=====================================\nStudent Name : Alex Johnson\nStudent ID : STU001\nExam : Introduction to Computer Science\nDate : 18 May 2026\n=====================================\n\nQuestion 1 (10 marks)\nWhat is an Operating System? Give examples.\nAn operating system is system software that manages the hardware and software resources of a computer. It provides an interface between the user and the computer hardware. Common examples of operating systems are Windows, Linux, and macOS.\n\nQuestion 2 (10 marks)\nDefine RAM. Explain its role and key characteristics.\nRAM is Random Access Memory. It is used by the computer to store data and programs that are currently in use. RAM is temporary storage \u00b7 the data is lost when the computer is switched off.\n\nQuestion 3 (10 marks)\nDescribe the role of the CPU in a computer system.\n[No answer provided]",
+    "status": "evaluated",
+    "created_at": "2026-05-18T08:05:25.137077+00:00"
   }
 ]

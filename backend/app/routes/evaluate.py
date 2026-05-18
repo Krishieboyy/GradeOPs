@@ -21,7 +21,7 @@ async def upload_scheme(
     current_user: dict = Depends(get_current_instructor)
 ):
     content = await file.read()
-    result, err = upload_marking_scheme(exam_id, current_user["id"], content)
+    result, err = upload_marking_scheme(exam_id, current_user["id"], content, file.filename or "")
 
     if err:
         raise HTTPException(status_code=404, detail=err)

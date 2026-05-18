@@ -4,6 +4,7 @@ transformers
 torch
 torchvision
 pillow
+pymupdf
 python-multipart
 accelerate
 python-jose

@@ -1,4 +1,7 @@
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 MODEL_NAME = os.getenv("MODEL_NAME", "JackChew/Qwen2-VL-2B-OCR")
 UPLOAD_DIR = os.getenv("UPLOAD_DIR", "uploads")
@@ -9,12 +12,10 @@ JWT_ALGORITHM = os.getenv("JWT_ALGORITHM", "HS256")
 ACCESS_TOKEN_EXPIRE_MINUTES = int(os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES", 60))
 
 DATA_DIR = os.getenv("DATA_DIR", "data")
+
 USERS_DIR = os.path.join(DATA_DIR, "users")
 EXAMS_DIR = os.path.join(DATA_DIR, "exams")
 STUDENTS_DIR = os.path.join(DATA_DIR, "students")
 SCHEMES_DIR = os.path.join(DATA_DIR, "schemes")
 SUBMISSIONS_DIR = os.path.join(DATA_DIR, "submissions")
 EVALUATIONS_DIR = os.path.join(DATA_DIR, "evaluations")
-
-MONGO_URI = os.getenv("MONGO_URI")
-DB_NAME = os.getenv("DB_NAME")
