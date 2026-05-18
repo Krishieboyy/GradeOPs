@@ -1,4 +1,6 @@
 <div align="center">
+
+
 # 🎓 GradeOps
 
 **AI-Powered Exam Grading & Results Management Platform for Instructors**
@@ -10,8 +12,9 @@
 ![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?style=flat&logo=vite&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 
----
 </div>
+---
+
 
 ## Overview
 
