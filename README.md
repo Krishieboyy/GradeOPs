@@ -17,7 +17,7 @@
 
 Instructors can create exams, register students, upload marking schemes (JSON or PDF), and submit scanned answer sheets (image or PDF) — the system extracts handwritten or typed text via the **Qwen2-VL-2B-OCR** model and evaluates each response against predefined expected points and keywords, returning per-question scores, matched/missing criteria, and an overall reasoning summary.
 
-Built by **Krish Patel** as a self-contained grading backend with a single-page instructor dashboard.
+Built by **Ayush Bansal**, **Lalit Deshmane**, **Krish Patel** as a self-contained grading backend with a single-page instructor dashboard.
 
 ---
 
