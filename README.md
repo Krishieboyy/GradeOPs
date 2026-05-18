@@ -1,3 +1,4 @@
+<div align="center">
 # 🎓 GradeOps
 
 **AI-Powered Exam Grading & Results Management Platform for Instructors**
@@ -10,6 +11,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 
 ---
+</div
 
 ## Overview
 
